@@ -1,11 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        int x = 5;
-        int y = 10;
-        int sum = x + y;
+        int a = 5;
+        int b = 10;
+        int sum = a + b;
 
-        System.out.println("Сумма двух чисел x и y равна " + sum);
+        System.out.println("Сумма двух чисел a и b равна " + sum);
 
     }
 }
